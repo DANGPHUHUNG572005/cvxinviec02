@@ -1,12 +1,20 @@
+
 import streamlit as st
 
-# Cấu hình trang
 st.set_page_config(
     page_title="CV - Đặng Phú Hưng",
     page_icon="📄",
     layout="wide"
 )
 
+col1, col2 = st.columns([1, 3])
+
+with col1:
+    st.image("photo.jpg", width=180)
+
+with col2:
+    st.title("ĐẶNG PHÚ HƯNG")
+    st.write("**SINH VIÊN NĂM 3 NGÀNH TÀI CHÍNH NGÂN HÀNG**")
 # CSS đơn giản
 st.markdown("""
 <style>
