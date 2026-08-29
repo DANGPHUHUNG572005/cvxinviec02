@@ -47,7 +47,7 @@ h2 {
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("avatar.jpg", width=180)
+    st.image("photo.jpg", width=180)
 
 with col2:
 
