@@ -103,9 +103,6 @@ with left:
     st.write("**Trường Đại học Nguyễn Tất Thành**")
     st.write("Chuyên ngành: Tài chính ngân hàng")
     st.write("• Xếp loại: Khá")
-    st.write("• Chứng chỉ: Kỹ năng Hành chính văn phòng")
-    st.write("• Kỹ năng làm chủ công việc")
-
 
     # CHỨNG CHỈ
     st.markdown("## CHỨNG CHỈ")
