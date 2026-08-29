@@ -550,11 +550,6 @@ st.markdown("""
                 nhân sự ngân hàng chuyên nghiệp,
                 có giá trị lâu dài cho tổ chức.
 
-            </div>
-
-        </div>
-
-
         <!-- HOẠT ĐỘNG -->
 
         <div class="section">
@@ -603,13 +598,6 @@ st.markdown("""
                             giáo dục mở cho Tân SV khóa 2024.
                         </li>
 
-                    </ul>
-
-                </div>
-
-            </div>
-
-
             <!-- Hoạt động 2025 -->
 
             <div class="timeline-item">
@@ -640,18 +628,6 @@ st.markdown("""
                             - Hành trình tuổi trẻ vì cộng đồng 2025 -
                             Trung thu nghĩa tình 2025.
                         </li>
-
-                    </ul>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
 
 
 <!-- FOOTER -->
